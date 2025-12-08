@@ -1,8 +1,37 @@
+<h1 align="center">Hi 👋, I'm Bikram Banerjee</h1>
+<h3 align="center">A passionate Data Engineer from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bikram-banerjee&label=Profile%20views&color=0e75b6&style=flat" alt="bikram-banerjee" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bikram-banerjee" alt="bikram-banerjee" />
+  </a>
+</p>
+
+- 📫 How to reach me **bikrambanerjee32@gmail.com**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://dev.to/bikrambanerjee" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to profile" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/looper044" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter profile" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/bikrambanerjee/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="30" width="40" />
+  </a>
+</p>
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
-  <!-- Existing Icons (unchanged) -->
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
@@ -14,7 +43,6 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /></a>
@@ -24,30 +52,15 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" /></a>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" /></a>
-
-  <!-- NEW: Data Engineering Tools -->
-  <a href="https://www.databricks.com/" target="_blank">
-    <img src="https://seeklogo.com/images/D/databricks-logo-DA1E6379DF-seeklogo.com.png" alt="Databricks" width="40" height="40" />
-  </a>
-  
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
-  </a>
-
-  <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40" />
-  </a>
-
-  <a href="https://docs.getdbt.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/main/etc/dbt-logo-full.svg" alt="dbt" width="40" height="40" />
-  </a>
-
-  <a href="https://airflow.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="40" height="40" />
-  </a>
-
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="Apache Kafka" width="40" height="40" />
-  </a>
-
 </p>
+
+---
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikram-banerjee&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikram-banerjee&show_icons=true&locale=en" alt="github stats" />
+</p>
+
