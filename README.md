@@ -14,7 +14,7 @@ If there’s a data problem — ingestion, transformation, orchestration, or sca
   <a href="mailto:bikrambanerjee32@gmail.com" target="_blank">
     <img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+      src="https://img.icons8.com/color/48/gmail-new.png"
       alt="email"
       height="30"
       width="40"
