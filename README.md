@@ -7,14 +7,27 @@ I design and build data systems that turn raw information into reliable, usable 
 If there’s a data problem — ingestion, transformation, orchestration, or scale — I enjoy figuring out how to make it efficient, maintainable, and production-ready.
 
 ---
-
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/bikrambanerjee/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="30" width="40" />
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn profile"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
-- 📫 Email **bikrambanerjee32@gmail.com**
+
+<p align="left">
+  📫 Email:
+  <a href="mailto:bikrambanerjee32@gmail.com">
+    <strong>bikrambanerjee32@gmail.com</strong>
+  </a>
+</p>
+
 
 
 #### What I Do
