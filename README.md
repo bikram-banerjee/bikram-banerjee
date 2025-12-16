@@ -13,8 +13,8 @@ If there’s a data problem — ingestion, transformation, orchestration, or sca
   <a href="https://www.linkedin.com/in/bikrambanerjee/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="30" width="40" />
   </a>
-  - 📫 Email **bikrambanerjee32@gmail.com**
 </p>
+- 📫 Email **bikrambanerjee32@gmail.com**
 
 
 #### What I Do
