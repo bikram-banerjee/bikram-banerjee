@@ -2,7 +2,7 @@
 
 I’m **Bikram Banerjee**, a data engineer based in India.
 
-I design and build data systems that turn raw information into reliable, usable insights.
+I design and build data systems that turn raw information into reliable, usable insights. 
 
 If there’s a data problem — ingestion, transformation, orchestration, or scale — I enjoy figuring out how to make it efficient, maintainable, and production-ready.
 
