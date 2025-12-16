@@ -8,19 +8,7 @@ If there’s a data problem — ingestion, transformation, orchestration, or sca
 
 ---
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-  <!-- Email -->
-  <a href="mailto:bikrambanerjee32@gmail.com" target="_blank">
-    <img
-      align="center"
-      src="https://img.icons8.com/color/48/gmail-new.png"
-      alt="email"
-      height="30"
-      width="40"
-    />
-  </a>
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/bikrambanerjee/" target="_blank">
     <img
@@ -33,8 +21,18 @@ If there’s a data problem — ingestion, transformation, orchestration, or sca
   </a>
 </p>
 
-
-
+<h3 align="left">Email:</h3>
+<p>
+  <a href="mailto:bikrambanerjee32@gmail.com">
+    <img
+      align="center"
+      src="https://img.icons8.com/color/48/gmail-new.png"
+      alt="email"
+      height="30"
+      width="30"
+    />
+  </a>
+</p>
 
 #### What I Do
 
