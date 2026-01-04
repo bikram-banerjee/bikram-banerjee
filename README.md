@@ -1,6 +1,6 @@
 <h2 align="left">Hey there! 👋</h2>
 
-I’m **Bikram Banerjee**, a data engineer based in India.
+I’m **Bikram Banerjee**, a Data Engineer based in India.
 
 I design and build data systems that turn raw information into reliable, usable insights. 
 
